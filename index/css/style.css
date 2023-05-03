@@ -244,6 +244,7 @@ button:hover::before {
    display: inline-block;
    position: relative;
    font-family:'Iceland', cursive;
+   font-size: 28px;
 }
 .localizacion::after,.localizacion::before{
     content: '';
